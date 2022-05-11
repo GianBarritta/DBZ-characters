@@ -1,3 +1,7 @@
+# Spring Boot REST API with H2 Database
+
+A small example in the form of an application of how to view/create Dragon Ball characters with Spring Boot using H2 for a database. Demonstrates elementary CRUD operations in response to HTTP, as well as returning JSON.
+
 # Getting Started
 
 ### Reference Documentation
